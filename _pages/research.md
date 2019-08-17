@@ -1,0 +1,27 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+redirect_from:
+  - /research
+---
+
+{% include base_path %}
+
+<!-- My research is in deep learning for medical image analysis, advised by <a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>. More specifically, I work on visual analysis of histopathology images and enjoy solving problems using small data. I occasionally do natural language processing. -->
+
+------
+
+Short - Papers
+------
+
+**Brain Tumor(LGG and GBM) Detection and Segmentation [in development] **  
+**Mustafa Mert Tunalı, Merve Turan, Feyza Aydoğan**  
+*Project Oriented Deep Learning Training*   
+<a href="#" style="color:navy" target="_blank">[paper]</a> 
+<a href="" style="color:navy" target="_blank">[blog post]</a>
+<a href="https://github.com/mustafamerttunali/DeepHealth" style="color:navy" target="_blank">[Github]</a>
+
+------
+
