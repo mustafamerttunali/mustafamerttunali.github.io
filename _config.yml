@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Mustafa Mert Tunalı"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Mustafa Mert Tunalı"
+description              : &description "Student at MEF University"
 url                      : https://mustafamerttunali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mustafamerttunali.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mustafa Mert Tunalı"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Student at MEF University"
   location         : "Istanbul/Turkey"
   employer         :
   pubmed           : 
