@@ -13,3 +13,5 @@ Hi. My name is Mert. I'm a computer engineering major at MEF University, interes
 Since 2017, I have been developing computer vision and deep learning algorithms.
 
 I'm currently developing MRI Brain Tumor Segmantation, the project is created in Project Oriented Deep Learning Training program. The program is organized by Deep Learning Turkey and supported by KWORKS.
+
+<img src="/images/mri_example.PNG" width="40%">
