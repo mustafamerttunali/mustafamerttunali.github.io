@@ -13,7 +13,7 @@ redirect_from:
 
 ------
 
-Short - Papers
+Short Papers
 ------
 
 **Brain Tumor(LGG and GBM) Detection and Segmentation [in development] **  
