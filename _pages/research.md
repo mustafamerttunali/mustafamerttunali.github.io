@@ -17,7 +17,7 @@ Short Papers
 ------
 
 **Brain Tumor(LGG and GBM) Detection and Segmentation [in development] **  
-**Mustafa Mert Tunalı, Merve Turan, Feyza Aydoğan**  
+**Mustafa Mert Tunalı, Merve Turan, Feyza Doğan**  
 *Project Oriented Deep Learning Training*   
 <a href="#" style="color:navy" target="_blank">[paper]</a> 
 <a href="" style="color:navy" target="_blank">[blog post]</a>
