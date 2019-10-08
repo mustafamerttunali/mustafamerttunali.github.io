@@ -16,6 +16,6 @@ I'm currently working on MRI Brain Tumor Segmantation; the project is created in
 
 
 # The first one is version 1, second one is our final development.
-<img src="/images/new_predict_4.png" width="22%">
-<img src="/images/hgg.png" width="22%">
+<img src="/images/new_predict_4.png" width="50%">
+<img src="/images/hgg.png" width="50%">
 
