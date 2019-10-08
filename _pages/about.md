@@ -14,4 +14,8 @@ Since 2017, I have been developing computer vision and deep learning algorithms.
 
 I'm currently working on MRI Brain Tumor Segmantation; the project is created in Project Oriented Deep Learning Training program. The program is organized by Deep Learning Turkey and supported by KWORKS.
 
+
+# The first one is version 1, second one is our final development.
 <img src="/images/new_predict_4.png" width="75%">
+<img src="/images/hgg.png" width="75%">
+
