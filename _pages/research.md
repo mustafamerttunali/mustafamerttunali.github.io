@@ -13,7 +13,7 @@ redirect_from:
 
 ------
 
-Short Papers
+Blog
 ------
 
 **Brain Tumor(HGG) Detection and Segmentation **  
@@ -24,3 +24,9 @@ Short Papers
 
 ------
 
+Short Papers
+------
+
+Soon.
+
+------
