@@ -20,6 +20,8 @@ redirect_from:
 <a href="#" style="color:navy" target="_blank">[blog post - English - Soon!]</a>
 <a href="https://github.com/mustafamerttunali/DeepHealth" style="color:navy" target="_blank">[Github - Soon!]</a>
 
+<img src="/images/hgg.png" width="50%">
+
 ------
 
 Short Papers
