@@ -12,7 +12,7 @@ redirect_from:
 
 ------
 
-# Personal Project
+### Personal Projects
 **Deep-Learning-Training-GUI**  
 **Mustafa Mert Tunalı**  
 *In Development*   
@@ -22,8 +22,8 @@ redirect_from:
 
 <img src="/images/terminal.png" width="50%">
 
-# Community Projects
-## Deep Learning Turkey
+### Community Projects
+#### Deep Learning Turkey
 **Brain Tumor(HGG) Detection and Segmentation**  
 **Mustafa Mert Tunalı, Merve Turan, Feyza Doğan**  
 *Project Oriented Deep Learning Training*   
