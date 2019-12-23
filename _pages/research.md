@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- My research is in deep learning for medical image analysis, advised by <a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>. More specifically, I work on visual analysis of histopathology images and enjoy solving problems using small data. I occasionally do natural language processing. -->
 
 ------
 
+# Personal Project
 **Deep-Learning-Training-GUI**  
 **Mustafa Mert Tunalı**  
 *In Development*   
@@ -22,6 +22,8 @@ redirect_from:
 
 <img src="/images/terminal.png" width="50%">
 
+# Community Projects
+## Deep Learning Turkey
 **Brain Tumor(HGG) Detection and Segmentation**  
 **Mustafa Mert Tunalı, Merve Turan, Feyza Doğan**  
 *Project Oriented Deep Learning Training*   
@@ -33,9 +35,3 @@ redirect_from:
 
 ------
 
-Short Papers
-------
-
-Soon.
-
-------
