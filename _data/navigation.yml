@@ -6,9 +6,11 @@ main:
   #- title: "Talks"
  #  url: /talks/    
 # 
-        
-  - title: "Research"
-    url: /research/    
+  - title: "Projects"
+    url: /projects/ 
+    
+  #- title: "Research"
+    #url: /research/    
 
   - title: "Personal"
     url: /personal/
