@@ -21,7 +21,7 @@ redirect_from:
 <a href="https://github.com/mustafamerttunali/Deep-Learning-Training-GUI" style="color:navy" target="_blank">[Github]</a>
 
 <img src="/images/terminal.png" width="50%">
-
+------
 ### Community Projects
 #### Deep Learning Turkey
 **Brain Tumor(HGG) Detection and Segmentation**  
