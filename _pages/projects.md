@@ -16,7 +16,7 @@ redirect_from:
 **Deep-Learning-Training-GUI**  
 **Mustafa Mert Tunalı**  
 *In Development*   
-<a href="#" target="_blank">[blog post - Turkish - Soon!]</a>
+<a href="https://medium.com/@mustafamerttunali/kolay-bir-%C5%9Fekilde-dl-modeli-e%C4%9Fitmek-deep-learning-training-gui-8aa2cd3d4bd6?source=---------2------------------" target="_blank">[blog post - Turkish]</a>
 <a href="#" style="color:navy" target="_blank">[blog post - English - Soon!]</a>
 <a href="https://github.com/mustafamerttunali/Deep-Learning-Training-GUI" style="color:navy" target="_blank">[Github]</a>
 
