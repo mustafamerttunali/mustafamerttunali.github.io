@@ -11,7 +11,7 @@ redirect_from:
 ## Software Developer | Computer Vision and Deep Learning | Medical Imaging | AI in Healthcare
 
 
-Hi. My name is Mert. I'm interested at computer vision, deep learning, medical imaging and neuroscience. I used to work on autonomous cars/robots, however, when I had a cancer (lymphoma), I have started to work on healthcare - medical imaging. 
+Hi. My name is Mert. I'm interested at computer vision, deep learning, medical imaging and neuroscience. I used to work on autonomous cars/robots, however, when I had cancer (lymphoma), I have started to interest on healthcare - medical imaging. 
 
 I have developed brain tumor (hgg) detection and segmentation using deep learning techniques with less data. My vision has changed after I defeated the cancer. My vision is to develop  innovative technologies with using AI in healthcare. 
 
