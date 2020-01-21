@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Software Developer | Computer Vision and Deep Learning | | AI in Healthcare
+## Computer Vision and Deep Learning | AI in Healthcare
 
 
 Welcome, My name is Mert.
@@ -26,7 +26,7 @@ In the words of Stephen Hawking:
 * Built a machine learning models that can predict oral, dental and brain health status.
 * Worked on different 11 health modules such as oral and dental, brain and kidney.
 
-*-Garanti Partners*
+Location: *Garanti Partners*
 
 ### NextHorizons (2017 Jun - 2019 Feb)
 Since 2017, I have been developing computer vision and deep learning algorithms. I worked in Next Horizons as software developer. Worked on artificial intelligence and software development for robotic platforms. Developed many critical parts of the software including:
@@ -37,4 +37,4 @@ Since 2017, I have been developing computer vision and deep learning algorithms.
 * 2D and 3D Mapping Indoor,
 * Setting and optimizing DualShock4 to use robot.
 
-*-Istanbul Technical University*
+Location: *Istanbul Technical University*
