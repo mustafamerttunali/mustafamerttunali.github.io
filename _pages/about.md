@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-## Software Developer | Computer Vision and Deep Learning | Medical Imaging | AI in Healthcare
+## Software Developer | Computer Vision and Deep Learning | | AI in Healthcare
 
 
-Hi. My name is Mert. I'm interested at computer vision, deep learning, medical imaging and neuroscience. I used to work on autonomous cars/robots, however, when I had cancer (lymphoma), I have started to interest on healthcare - medical imaging. 
+Welcome, My name is Mert.
 
-I have developed brain tumor (hgg) detection and segmentation using deep learning techniques with less data. My vision has changed after I defeated the cancer. My vision is to develop  innovative technologies with using AI in healthcare. 
+I'm interested at computer vision, deep learning and neuroscience. I used to work on autonomous cars/robots, however, when I had cancer (lymphoma), I have started to interest at healthcare - medical imaging. My vision has changed after I defeated the cancer. My vision is to develop  innovative technologies with using AI in healthcare. 
 
-Now, I'm developing Deep Learning based GUI which you can train your model with no detailed configuration needed! Set your labeled dataset and start the training right away and monitor it with TensorBoard or DLTGUI tool.
+I believe that AI in healthcare will increase the ability for healthcare professionals to better understand the day-to-day patterns and needs of the people they care for, and with that understanding they are able to provide better feedback, guidance and support for staying healthy.
 
 In the words of Stephen Hawking:
 > Science is beautiful when it makes simple explanations of phenomena or connections between different observations. Examples include the double helix in biology and the fundamental equations of physics.
