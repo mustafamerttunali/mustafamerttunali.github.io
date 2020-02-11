@@ -13,7 +13,10 @@ redirect_from:
 
 Welcome, My name is Mert.
 
-I'm interested at computer vision, deep learning and neuroscience. I used to work on autonomous cars/robots, however, when I had cancer (lymphoma), I have started to interest at healthcare - medical imaging. My vision has changed after I defeated the cancer. My vision is to develop  innovative technologies with using AI in healthcare. 
+
+I like solving problems and understanding how things work. I have been working in the field of computer vision for about 4 years. My vision is to develop innovative technologies with using AI in healthcare.I'm interested at analysing medical images using computer vision and deep learning techniques.
+
+I used to work on autonomous cars/robots, however, when I had cancer (lymphoma), I have started to interest at healthcare - medical imaging. My vision has changed after I defeated the cancer. My vision is to develop  innovative technologies with using AI in healthcare. 
 
 I believe that AI in healthcare will increase the ability for healthcare professionals to better understand the day-to-day patterns and needs of the people they care for, and with that understanding they are able to provide better feedback, guidance and support for staying healthy.
 
