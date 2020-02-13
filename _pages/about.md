@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Computer Vision and Deep Learning | AI in Healthcare
-
-
 Welcome, My name is Mert.
 
 
