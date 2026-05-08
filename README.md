@@ -1,1 +1,7 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. You are welcome to clone this code for your own personal use, just please attribute the source to the original website or to this repo. If you do clone this website, feel free to add an attribution link to your own downstream website in index.html if you want.
+# mustafamerttunali.github.io
+
+Personal website for Mustafa Mert Tunali.
+
+Built from a heavily modified academic website template originally shared by
+Jon Barron. All personal content, project descriptions, images, and site copy
+belong to Mustafa Mert Tunali unless otherwise noted.
