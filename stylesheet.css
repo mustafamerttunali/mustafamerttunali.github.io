@@ -168,11 +168,6 @@ h1 {
   margin-top: 22px;
 }
 
-.profile-links a::after {
-  content: " ↗";
-  color: var(--faint);
-}
-
 .section {
   padding: clamp(54px, 7vw, 68px) 0;
   border-bottom: 1px solid var(--line);
@@ -255,14 +250,6 @@ h1 {
   font-weight: 600;
   letter-spacing: -0.035em;
   line-height: 1.2;
-}
-
-.experience-copy h3 span,
-.project-row h4 span,
-.paper h3 span {
-  color: var(--accent);
-  font-size: 0.68em;
-  font-weight: 400;
 }
 
 .experience-title > div > p {
